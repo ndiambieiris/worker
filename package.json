@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -41,5 +41,4 @@
     "type": "git",
     "url": "https://github.com/ndiambieiris/table_.git"
   }
-  
 }
